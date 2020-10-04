@@ -1,5 +1,6 @@
 ### Hi there, I'm Aurélien - aka aschelch 👋
 
+I'm currently working as innovation lead at @Ubitransport in Mâcon, France.
 
 ### Connect with me:
 
@@ -10,7 +11,7 @@
 
 <br />
 
-### My personnal projects:
+### My personal projects:
 
 - [Dogeo.net](https://dogeo.net) - A web app to create and share [agility](https://en.wikipedia.org/wiki/Dog_agility) map
 - [WiTrip.fr](http://witrip.fr) - A mobile app to ease traveling using multiple car by sharing each other location on GPS
