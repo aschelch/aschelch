@@ -13,6 +13,21 @@ I'm currently working as innovation lead at [@Ubitransport](https://ubitransport
 
 ### My personal projects:
 
+[<img align="left" alt="Dogeo.net" width="300px" src="dogeo.net.png" />](https://www.dogeo.net)
+[<img align="left" alt="PinBucket.io" width="300px" src="pinbucket.io.png" />](https://www.pinbucket.io)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 - [Dogeo.net](https://dogeo.net) - A web app to create and share [agility](https://en.wikipedia.org/wiki/Dog_agility) map
 - [WiTrip.fr](http://witrip.fr) - A mobile app to ease traveling using multiple car by sharing each other location on GPS
 - [PinBucket.io](https://www.pinbucket.io) - A web app to save and share links between team members
