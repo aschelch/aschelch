@@ -13,9 +13,12 @@ I'm currently working as innovation lead at [@Ubitransport](https://ubitransport
 
 ### My personal projects:
 
-[<img align="left" alt="Dogeo.net" width="300px" src="dogeo.net.png" />](https://www.dogeo.net)
-[<img align="left" alt="PinBucket.io" width="300px" src="pinbucket.io.png" />](https://www.pinbucket.io)
+[<img align="left" alt="Dogeo.net" width="300px" height="245px" src="dogeo.net.png" />](https://www.dogeo.net)
+[<img align="left" alt="PinBucket.io" width="300px" height="245px" src="pinbucket.io.png" />](https://www.pinbucket.io)
+[<img align="left" alt="MunchkinWeb" width="300px" height="245px" src="munchkin-web.png" />](https://munchkin-web.herokuapp.com/)
 
+<br />
+<br />
 <br />
 <br />
 <br />
