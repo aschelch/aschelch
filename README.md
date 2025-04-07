@@ -1,7 +1,5 @@
 ### Hi there, I'm Aurélien - aka aschelch 👋
 
-I'm currently working as innovation lead at [@Ubitransport](https://ubitransport.com) in Mâcon, France.
-
 ### Connect with me:
 
 [<img align="left" alt="aschelch.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://aschelch.fr)
